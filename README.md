@@ -1,3 +1,4 @@
 # Venus
 Planet and its satellite
-Прекраснейшая планета  на фоне безконечного космоса, со своим спутником!
+
+A beautiful planet against the backdrop of endless space, with its satellite!
